@@ -1,6 +1,6 @@
 # MNIST for PAI
 <br>
-本项目为MNIST项目，可以运行在PAI平台上，关于代码详见。
+本项目为MNIST项目，可以运行在PAI平台上，关于代码分析详见http://blog.csdn.net/u010187278/article/details/77794435。
 <br>
 <br>
 文件中包括：
